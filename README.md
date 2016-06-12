@@ -1,4 +1,4 @@
-# GPU-accelerated-simulation-of-the-2D-and-3D-Ising-model
+# GPU-accelerated-monte-carlo-simulation-of-the-2D-and-3D-Ising-model
 
 This project trys to reproduce the results of:
 
